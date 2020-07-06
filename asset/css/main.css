@@ -1,0 +1,14 @@
+.manage-top{
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.manage-top .btn{
+    text-align: center;
+    width: 50%;
+}
+
+td .btn{
+    min-width: 50px;
+    padding: 2px 5px 2px 5px;
+}
